@@ -99,7 +99,11 @@ uint8_t Bugfix =33;
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+<<<<<<< Updated upstream
 	  Bugfix = 123;
+=======
+	  Bugfix = 22;
+>>>>>>> Stashed changes
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
