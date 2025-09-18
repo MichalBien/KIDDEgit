@@ -88,13 +88,14 @@ int main(void)
   MX_GPIO_Init();
   /* USER CODE BEGIN 2 */
 uint8_t zmienna1=1;
-uint8_t Bugfix =3;
+uint8_t Bugfix =2;
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+	  Bugfix = zmienna1;
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
