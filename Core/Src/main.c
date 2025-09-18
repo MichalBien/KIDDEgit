@@ -88,14 +88,18 @@ int main(void)
   MX_GPIO_Init();
   /* USER CODE BEGIN 2 */
 uint8_t zmienna1=1;
+<<<<<<< Updated upstream
 uint8_t Bugfix =11;
+=======
+uint8_t Bugfix =33;
+>>>>>>> Stashed changes
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-	  Bugfix = zmienna1;
+	  Bugfix = 123;
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
