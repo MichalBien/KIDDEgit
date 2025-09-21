@@ -96,9 +96,9 @@ uint8_t Bugfix =11;
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-	  Bugfix = 33;
-	  Bugfix = 44;
-	  Bugfix = 55;
+	  Bugfix = 1;
+	  Bugfix = 2;
+	  Bugfix = 3;
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
