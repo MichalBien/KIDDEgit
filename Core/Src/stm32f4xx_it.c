@@ -42,6 +42,7 @@
 /* Private variables ---------------------------------------------------------*/
 /* USER CODE BEGIN PV */
 uint8_t f1;
+uint8_t a1;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
