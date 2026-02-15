@@ -44,8 +44,11 @@
 uint8_t f1;
 uint8_t a1;
 uint8_t a2;
+<<<<<<< HEAD
 uint8_T b1;
 
+=======
+>>>>>>> 7e1b0ba478541d03ef105852abcedc422a097c10
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
