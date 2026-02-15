@@ -46,6 +46,8 @@ uint8_t a1;
 uint8_t a2;
 uint8_t b1;
 uint8_t b2;
+uint8_t b3;
+
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
